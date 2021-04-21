@@ -1,0 +1,55 @@
+[
+    {
+      "id": 1,
+      "titulo": "EL BATMAN QUE RÍE: LOS INFECTADOS 02 (DE 6)",
+      "descripcion": "¡El Año del Villano! ¡Supergirl ha vuelto a la Tierra para encontrarse cara a cara con los sucesos de El incidente Leviatán! ¿Dónde están sus padres adoptivos? Mientras, el Batman que ríe tiene en su punto de mira a dos nuevos personajes icónicos del Universo DC: Donna Troy y el comisario James Gordon. ¿Qué sucede cuando estos héroes pierden el sentido del honor y del deber y quedan atrapados en la red del Multiverso Oscuro? Descubre más sobre El Batman que ríe: Los Infectados este mes en Batman/Superman núm. 04.",
+      "precio": 4.70,
+      "imagen": "../Imagenes/Productos Tienda/Portadas/portada1.jpg",
+      "id_categoria": 1
+    },
+    {
+        "id": 2,
+        "titulo": "EL BATMAN QUE RÍE: LOS INFECTADOS 04 (DE 6)",
+        "descripcion": "¡El Año del Villano! Supergirl ha aceptado a su nueva yo infectada con orgullo. Con Batman y Superman buscando una cura y el Batman que Ríe queriendo utilizarla para sus propios fines, ¿qué bando elegirá Kara? Mientras, otro infectado entra en juego: Carter Hall, más conocido como Hawkman. La psique del guerrero alado está ahora dominada por la más siniestra de sus vidas pasadas. Descubre más sobre El Batman que ríe: Los Infectados este mes en Batman/Superman núm. 06 y en El Batman que ríe: Se alza el infierno núm. 02 de 4.",
+        "precio": 4.70,
+        "imagen": "../Imagenes/Productos Tienda/Portadas/portada2.jpg",
+        "id_categoria": 1
+      },
+    {
+        "id": 3,
+        "titulo": "EL BATMAN QUE RÍE: LOS INFECTADOS 06",
+        "descripcion": "El Año del Villano se acerca a su fin! Supergirl está fuera de control y las consecuencias de la infección del Multiverso Oscuro pueden cambiar para siempre a Kara Zor-El. Mientras, los aliados del héroe antes conocido como Hawkman se hacen una pregunta decisiva: ¿cómo se puede detener a un hombre lleno de ira? Carter Hall revive los momentos más trágicos de sus muchas vidas en una última batalla.",
+        "precio": 6.18,
+        "imagen": "../Imagenes/Productos Tienda/Portadas/portada3.jpg",
+        "id_categoria": 1
+        },
+    {
+        "id": 4,
+        "titulo": "MARVELS 01 (MARVEL FACSÍMIL)",
+        "descripcion": "Contiene Marvels 1. La obra maestra que lo cambió todo, en su formato original, con las portadas de acetato creadas para la edición americana y nunca antes vistas en España. El fotorreportero Phil Sheldon asume la tarea de informar acerca de los superhéroes de Nueva York. Su vida cambiará para siempre. Una visión de los prodigios como nunca antes nadie había imaginado.",
+        "precio": 6.18,
+        "imagen": "../Imagenes/Productos Tienda/Portadas/portada6.jpg4",
+        "id_categoria": 2
+      },
+    {
+        "id": 5,
+        "titulo": "MARVELS 03 (MARVEL FACSÍMIL)",
+        "descripcion": "Contiene Marvels 3. En conmemoración de su vigésimo quinto aniversario, llega una nueva edición de Marvels, fiel al original publicado en 1994, con espectaculares portadas en acetato transparente. El fotógrafo de noticias Phil Sheldon contempla el momento más trascendental de la historia de la humanidad: La llegada de Galactus.",
+        "precio": 6.18,
+        "imagen": "../Imagenes/Productos Tienda/Portadas/portada7.jpg",
+        "id_categoria": 2    },
+    {
+        "id": 6,
+        "titulo": "COLECCIÓN MARVELS: MARVELS X",
+        "descripcion": "¡El cómic que une el pasado glorioso de los Prodigios con el oscuro futuro de Tierra X! David tiene un problema. Vive en un mundo de monstruos que disfrutarían devorándolo. Es el último chico de la Tierra. El último humano de la Tierra. Y estas criaturas que lo ven sólo como una presa antes eran sus vecinos. Tiene la esperanza de llegar a Nueva York y encontrar al Capitán América y al resto de los héroes. Alex Ross y Jim Krueger combinan sus habilidades con el artista Well-Bee para narrar la precuela que nunca soñaste de la trilogía de Tierra X.",
+        "precio": 17.10,
+        "imagen": "../Imagenes/Productos Tienda/Portadas/8",
+        "id_categoria": 2    },
+    {
+        "id": 7,
+        "titulo": "MARVELS (MARVEL FACSÍMIL 04)",
+        "descripcion": "Son los gigantes que habitan entre nosotros. Héroes y monstruos. Salvadores y hombres. Son los Prodigios y, para el fotógrafo Phil Sheldon, encarnan las mayores aspiraciones de la humanidad. La investigación de Spiderman, el gran enigma de Nueva York, le conduce a un viaje que acaba en terror y tragedia.",
+        "precio": 6.18,
+        "imagen": "../Imagenes/Productos Tienda/Portadas/9",
+        "id_categoria": 2    }
+  ]
